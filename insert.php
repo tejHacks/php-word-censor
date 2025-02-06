@@ -21,7 +21,7 @@ $banned_words = [
     "Wasting", "Wounded", "Xenophobia", "Aggression", "Attack", "Backstabber", "Blacklisting", "Clueless", "Cruelty", 
     "Disapprove", "Exclusion", "Fraudulence", "Hysteria", "Impose", "Inferiority", "Malign", "Mistreat", "Negligence", 
     "Oppression", "Quarrel", "Slanderous", "Subordinate", "Torture", "Trafficking", "Undermine", "Unreliable", "Violent", 
-    "Yoke", "Zinger", "Wagering", "Wrongdoer", "Yell"
+    "Yoke", "Zinger", "Wagering", "Wrongdoer", "Yell", "Ugly", "Bitch", "Cunt", "Pussy", "Motherfucker", "Fucker", "Gay", "Badass"
 ];
 
 // Connect to MySQL Database
